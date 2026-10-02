@@ -8,6 +8,9 @@ Flip-Uhr-Karte für Home Assistant (Lovelace) mit **visuellem Editor** für alle
 
 Inspiriert von [pmongloid/flipdown-timer-card](https://github.com/pmongloid/flipdown-timer-card), neu geschrieben ohne Build-Schritt.
 
+Screenshot
+<img width="1220" height="627" alt="1000067322" src="https://github.com/user-attachments/assets/34cd819e-65c6-4ca0-b5d6-d67a73a4defa" />
+
 ## Installation
 
 **HACS (Custom Repository)**
