@@ -8,6 +8,9 @@ Flip-Uhr-Karte für Home Assistant (Lovelace) mit **visuellem Editor** für alle
 
 Inspiriert von [pmongloid/flipdown-timer-card](https://github.com/pmongloid/flipdown-timer-card), neu geschrieben ohne Build-Schritt.
 
+Screenshot
+<img width="1220" height="627" alt="Screenshot_2026-10-02-08-18-05-424_io homeassistant companion android-edit" src="https://github.com/user-attachments/assets/3005da21-1781-4146-af70-e13b39c17508" />
+
 ## Installation
 
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Noack1978&repository=flipdown-timer-plus-card&category=plugin)
