@@ -1,4 +1,4 @@
-<p align="center"><img src="brand/icon@2x.png" width="128" alt="Flipdown Timer Plus Card"></p>
+<p align="center"><img src="brand/icon.png" width="128" alt="Flipdown Timer Plus Card"></p>
 
 # Flipdown Timer Plus Card
 
@@ -8,10 +8,9 @@ Flip-Uhr-Karte für Home Assistant (Lovelace) mit **visuellem Editor** für alle
 
 Inspiriert von [pmongloid/flipdown-timer-card](https://github.com/pmongloid/flipdown-timer-card), neu geschrieben ohne Build-Schritt.
 
-Screenshot
-<img width="1220" height="627" alt="1000067322" src="https://github.com/user-attachments/assets/34cd819e-65c6-4ca0-b5d6-d67a73a4defa" />
-
 ## Installation
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Noack1978&repository=flipdown-timer-plus-card&category=plugin)
 
 **HACS (Custom Repository)**
 1. HACS → ⋮ → *Benutzerdefinierte Repositories*
@@ -104,6 +103,16 @@ styles:
 
 - Durch die Flip-Animation kann eine Abweichung von unter 1 s auftreten.
 - Die Karte registriert sich zusätzlich in `window.customCards` und erscheint im Karten-Dialog.
+
+## Changelog
+
+### v1.0.0
+- Erste Veröffentlichung
+- Visueller Editor (`ha-form`) für alle Optionen
+- Unterstützt `timer`, `input_datetime` (Datum + Zeit) und Timestamp-Sensoren
+- Dauer im Ruhezustand per Klick auf die Rotoren einstellbar
+- Themes `hass`, `dark`, `light`; Farben, Größen, Abstand und Beschriftungen konfigurierbar
+- Optimiert für `type: sections`
 
 ## Lizenz
 
